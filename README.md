@@ -1,10 +1,10 @@
 # Google Data Analytics Capstone Project Case Study 1
 
 ## Ask
->Problems to solve:
->1. How do annual members and casual riders use Cyclistic differently?
->3. Why would casual riders buy Cyclistic annual memberships?
->4. How can Cyclistic use digital media to influence casual riders to become members?
+* Problems to solve:
+ * 1. How do annual members and casual riders use Cyclistic differently?
+ * 2. Why would casual riders buy Cyclistic annual memberships?
+ * 3. How can Cyclistic use digital media to influence casual riders to become members?
 
 * ### Identify business task and Consider key stakeholders
 
