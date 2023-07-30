@@ -15,5 +15,11 @@
 ## Prepare
 * Data sources
   * [Data used](https://divvy-tripdata.s3.amazonaws.com/index.html)
-  * Downloaded trip data from 2022 July to 2023 June
   * [Data license](https://ride.divvybikes.com/data-license-agreement)
+  * Downloaded trip data from 2022 July to 2023 June
+* The data is likely to be in United States
+* THe data is organised by
+* As the data come from the company managing the service, it is **Reliable**, **Cited** and **Original**. The data has all the critical information of member type and length of ride, making it **Comprhensive**. The data used in this analysis is the most **Current** available.
+
+## Process
+* 
