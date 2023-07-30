@@ -30,4 +30,9 @@
    * Included column of "day_of_week" to determine which day the ride took place, with 'Monday' being 1 and 'Sunday' being 7
 
 ## Analyze
-* 
+* I should hide rows that are not relevant to this analysis such as 'ride_id'
+* Checked formatting by using the 'Filter' function to ensure no empty cells are involved in the 'started_at', 'ended_at' and 'member_casual' columns as these 3 are the crucial part of analysis
+* One surprise in the data was that some points had the 'statrted_at' time being later than the 'ended_at' time, which does not make sense.
+* Create a pivot table to have a better understanding of the data
+* [first](![image](https://github.com/dtwl0401/gdc1/assets/107090466/77a3d08a-9239-48b0-adca-ac27aac1b8c3)
+
