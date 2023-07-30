@@ -14,6 +14,6 @@
 
 ## Prepare
 * Data sources
-  * Data used(https://divvy-tripdata.s3.amazonaws.com/index.html)
+  * [Data used](https://divvy-tripdata.s3.amazonaws.com/index.html)
   * Downloaded trip data from 2022 July to 2023 June
-  * Data license(https://ride.divvybikes.com/data-license-agreement)
+  * [Data license](https://ride.divvybikes.com/data-license-agreement)
