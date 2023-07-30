@@ -16,7 +16,7 @@
 * Data sources
   * [Data used](https://divvy-tripdata.s3.amazonaws.com/index.html)
   * [Data license](https://ride.divvybikes.com/data-license-agreement)
-  * Downloaded trip data for 2020 Q1
+  * Downloaded trip data from 2019 Q2 to 2020 Q1
 * The data is likely to be in United States
 * THe data is organised by Ride ID, type of bike, start and end timings, start and end station names, station IDs and station latitudes and longtitudes, as well as member type.
 * As the data come from the company managing the service, it is **Reliable**, **Cited** and **Original**. The data has all the critical information of member type and length of ride, making it **Comprhensive**. The data used in this analysis is the most **Current** available.
@@ -45,3 +45,12 @@
 * The casual riders can receive in-app notifications when to open the app to offer them member, or through email to encourage them to pickup membership
 * A table with days of week as x-axis, where each day has two columns of average member ride length and average casual ride length to see the difference between the averages for both parties
    ### Steps taken
+   1. Load dataset from 2019 Q2 to 2020 Q1 into R environment, naming it *'q2_2019'* and so on.
+  > q2_2019 <- read_csv("Divvy_Trips_2019_Q2.csv")
+q3_2019 <- read_csv("Divvy_Trips_2019_Q3.csv")
+q4_2019 <- read_csv("Divvy_Trips_2019_Q4.csv")
+q1_2020 <- read_csv("Divvy_Trips_2020_Q1.csv")
+   3. Run 'colnames(dataset)', where dataset is *'q2_2019'* and so on, to check all columns in all four datasets are the same
+   4. Column names for Q2 2019 was different from others, so we would have to change it to standardize all the column names to be the same
+   5. The data type for 2019 are different, so we mutate it
+   6. 
