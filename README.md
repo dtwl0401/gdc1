@@ -16,7 +16,7 @@
 * Data sources
   * [Data used](https://divvy-tripdata.s3.amazonaws.com/index.html)
   * [Data license](https://ride.divvybikes.com/data-license-agreement)
-  * Downloaded trip data from 2022 July to 2023 June
+  * Downloaded trip data for 2020 Q1
 * The data is likely to be in United States
 * THe data is organised by Ride ID, type of bike, start and end timings, start and end station names, station IDs and station latitudes and longtitudes, as well as member type.
 * As the data come from the company managing the service, it is **Reliable**, **Cited** and **Original**. The data has all the critical information of member type and length of ride, making it **Comprhensive**. The data used in this analysis is the most **Current** available.
@@ -36,9 +36,12 @@
 * Create a pivot table to have a better understanding of the data
 * ![image](https://github.com/dtwl0401/gdc1/assets/107090466/05233dac-757d-4ee3-90e8-1133088fa3f0)
 * **Type of member vs Average ride length**
-* 
+* ![image](https://github.com/dtwl0401/gdc1/assets/107090466/424d043b-6a1d-4908-867e-e7a64047f896)
 * **Type of member vs Average ride legnth with Day of week**
-* ![image](https://github.com/dtwl0401/gdc1/assets/107090466/ba5a657c-ab2f-46ee-8ae6-4b7b186d34ac)
 
-
-
+## Share
+* Casual members have higher average ride length as compared to members in 2020 Q1
+* Casual riders may actually benefit from becoming members due to longer ride times
+* The casual riders can receive in-app notifications when to open the app to offer them member, or through email to encourage them to pickup membership
+* A table with days of week as x-axis, where each day has two columns of average member ride length and average casual ride length to see the difference between the averages for both parties
+   ### Steps taken
