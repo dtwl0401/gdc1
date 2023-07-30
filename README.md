@@ -46,10 +46,10 @@
 * A table with days of week as x-axis, where each day has two columns of average member ride length and average casual ride length to see the difference between the averages for both parties
    ### Steps taken
    1. Load dataset from 2019 Q2 to 2020 Q1 into R environment, naming it *'q2_2019'* and so on.
-  > q2_2019 <- read_csv("Divvy_Trips_2019_Q2.csv")
+  <p></p> q2_2019 <- read_csv("Divvy_Trips_2019_Q2.csv")
 q3_2019 <- read_csv("Divvy_Trips_2019_Q3.csv")
 q4_2019 <- read_csv("Divvy_Trips_2019_Q4.csv")
-q1_2020 <- read_csv("Divvy_Trips_2020_Q1.csv")
+q1_2020 <- read_csv("Divvy_Trips_2020_Q1.csv")</p>
    3. Run 'colnames(dataset)', where dataset is *'q2_2019'* and so on, to check all columns in all four datasets are the same
    4. Column names for Q2 2019 was different from others, so we would have to change it to standardize all the column names to be the same
    5. The data type for 2019 are different, so we mutate it
