@@ -13,3 +13,7 @@
   * **Key stakeholders** in this business task include 1) casual riers, 2) Lily Moreno(Director of Marketing), 3) Cyclistic Marketing team, 4) Cyclistic Executive team
 
 ## Prepare
+* Data sources
+  * Data used(https://divvy-tripdata.s3.amazonaws.com/index.html)
+  * Downloaded trip data from 2022 July to 2023 June
+  * Data license(https://ride.divvybikes.com/data-license-agreement)
