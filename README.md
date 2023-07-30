@@ -34,5 +34,5 @@
 * Checked formatting by using the 'Filter' function to ensure no empty cells are involved in the 'started_at', 'ended_at' and 'member_casual' columns as these 3 are the crucial part of analysis
 * One surprise in the data was that some points had the 'statrted_at' time being later than the 'ended_at' time, which does not make sense.
 * Create a pivot table to have a better understanding of the data
-* [first](![image](https://github.com/dtwl0401/gdc1/assets/107090466/77a3d08a-9239-48b0-adca-ac27aac1b8c3)
+* Type of member vs Average ride length![image](https://github.com/dtwl0401/gdc1/assets/107090466/77a3d08a-9239-48b0-adca-ac27aac1b8c3)
 
