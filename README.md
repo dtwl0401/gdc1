@@ -39,7 +39,7 @@
 * ![image](https://github.com/dtwl0401/gdc1/assets/107090466/424d043b-6a1d-4908-867e-e7a64047f896)
 * **Type of member vs Average ride legnth with Day of week**
 
-## Share
+## Share - 
 * Casual members have higher average ride length as compared to members in 2020 Q1
 * Casual riders may actually benefit from becoming members due to longer ride times
 * The casual riders can receive in-app notifications when to open the app to offer them member, or through email to encourage them to pickup membership
@@ -50,7 +50,9 @@
 * In step 4 again, members however have more ride taken as compared to casual riders
 * ![Ride vs Day by Membership](https://github.com/dtwl0401/gdc1/assets/107090466/5a93fb38-8a82-475a-b460-048b01d2cf99)
 
-## Act
+## Act - Recommendations based on analysis available
 * I would conclude that it is financially viable to attract casual riders to take up the membership as they have significantly higher ride times as compared to current members
 * Casual members would want to take up membership to take advantage of the benefits that may come with the membership, such as having free 15 minute ride every day as about 30% use it for work
-* Considering leisure times, the more likely use of Cyclistic, 15 minutes is a decent duration for one to get from one place to another, travelling about [2.5 miles/4 km](https://www.metroplanning.org/news/8917/The-15-minute-city-How-close-is-Chicago)
+* Considering leisure times, the more likely use of Cyclistic, 15 minutes is a decent duration for one to get from one place to another, travelling about [2.5 miles/4 km](https://www.metroplanning.org/news/8917/The-15-minute-city-How-close-is-Chicago) as Chicago aims to be a '15-minute city'.
+
+## That marks the end of the Cyclistic Case Study!
