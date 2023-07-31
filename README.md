@@ -45,10 +45,8 @@
 * The casual riders can receive in-app notifications when to open the app to offer them member, or through email to encourage them to pickup membership
 * A table with days of week as x-axis, where each day has two columns of average member ride length and average casual ride length to see the difference between the averages for both parties
 * An R Script was provided by Google, made by Kevin Hartman, that we used for cleaning the data
-* In step 4 of the script, when comparing casual and member riders, we can see that casual riders have higher average ride length(shown below), higher median ride length, longer maximum and minimum ride taken
-* ![Duration Vs Day by Membership](https://github.com/dtwl0401/gdc1/assets/107090466/f7dd3e1b-e373-4262-b852-24d774764720)
-* In step 4 again, members however have more ride taken as compared to casual riders
-* ![Ride vs Day by Membership](https://github.com/dtwl0401/gdc1/assets/107090466/5a93fb38-8a82-475a-b460-048b01d2cf99)
+* In step 4 of the script, when comparing casual and member riders, we can see that casual riders have higher average ride length(shown below), higher median ride length, longer maximum and minimum ride taken {Attached}
+* In step 4 again, members however have more ride taken as compared to casual riders {Attached}
 
 ## Act - Recommendations based on analysis available
 * I would conclude that it is financially viable to attract casual riders to take up the membership as they have significantly higher ride times as compared to current members
