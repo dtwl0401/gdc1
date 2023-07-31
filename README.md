@@ -46,10 +46,11 @@
 * A table with days of week as x-axis, where each day has two columns of average member ride length and average casual ride length to see the difference between the averages for both parties
 * An R Script was provided by Google, made by Kevin Hartman, that we used for cleaning the data
 * In step 4 of the script, when comparing casual and member riders, we can see that casual riders have higher average ride length(shown below), higher median ride length, longer maximum and minimum ride taken
-* (![Duration Vs Day by Membership](https://github.com/dtwl0401/gdc1/assets/107090466/f7dd3e1b-e373-4262-b852-24d774764720)
+* ![Duration Vs Day by Membership](https://github.com/dtwl0401/gdc1/assets/107090466/f7dd3e1b-e373-4262-b852-24d774764720)
 * In step 4 again, members however have more ride taken as compared to casual riders
-* (![Ride vs Day by Membership](https://github.com/dtwl0401/gdc1/assets/107090466/5a93fb38-8a82-475a-b460-048b01d2cf99)
+* ![Ride vs Day by Membership](https://github.com/dtwl0401/gdc1/assets/107090466/5a93fb38-8a82-475a-b460-048b01d2cf99)
 
 ## Act
 * I would conclude that it is financially viable to attract casual riders to take up the membership as they have significantly higher ride times as compared to current members
-* 
+* Casual members would want to take up membership to take advantage of the benefits that may come with the membership, such as having free 15 minute ride every day as about 30% use it for work
+* Considering leisure times, the more likely use of Cyclistic, 15 minutes is a decent duration for one to get from one place to another, travelling about [2.5 miles/4 km](https://www.metroplanning.org/news/8917/The-15-minute-city-How-close-is-Chicago)
