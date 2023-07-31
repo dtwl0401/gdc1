@@ -44,10 +44,11 @@
 * Casual riders may actually benefit from becoming members due to longer ride times
 * The casual riders can receive in-app notifications when to open the app to offer them member, or through email to encourage them to pickup membership
 * A table with days of week as x-axis, where each day has two columns of average member ride length and average casual ride length to see the difference between the averages for both parties
-   ### Steps taken
-   1. Load dataset from 2019 Q2 to 2020 Q1 into R environment, naming it *'q2_2019'* and so on.
-   2. Run 'colnames(dataset)', where dataset is *'q2_2019'* and so on, to check all columns in all four datasets are the same
-   3. Column names for Q2 2019 was different from others, so we would have to change it to standardize all the column names to be the same
-   4. The data type for 2019 are different, so we mutate it
-   5. Combine all 4 quarters worth of data into one data frame
-   6. 
+* An R Script was provided by Google, made by Kevin Hartman, that we used for cleaning the data
+* In step 4 of the script, when comparing casual and member riders, we can see that casual riders have higher average ride length, higher median ride length, longer maximum and minimum ride taken
+* [!image](![Duration Vs Day by Membership](https://github.com/dtwl0401/gdc1/assets/107090466/f7dd3e1b-e373-4262-b852-24d774764720)
+* In step 4 again, members have more ride taken as compared to casual riders
+
+## Act
+* I would conclude that it is financially viable to attract casual riders to take up the membership as they have significantly higher ride times as compared to current members
+* 
